@@ -1,0 +1,462 @@
+[
+    {
+        "id": 1,
+        "nom_du_fichier": "20160805_-_Sloper.glb",
+        "nom_affichage": "Prise n°1"
+    },
+    {
+        "id": 2,
+        "nom_du_fichier": "2FPocketIncut.glb",
+        "nom_affichage": "Prise n°2"
+    },
+    {
+        "id": 3,
+        "nom_du_fichier": "Avocado.glb",
+        "nom_affichage": "Prise n°3"
+    },
+    {
+        "id": 4,
+        "nom_du_fichier": "Banana.glb",
+        "nom_affichage": "Prise n°4"
+    },
+    {
+        "id": 5,
+        "nom_du_fichier": "CH1_S.glb",
+        "nom_affichage": "Prise n°5"
+    },
+    {
+        "id": 6,
+        "nom_du_fichier": "CH2_S.glb",
+        "nom_affichage": "Prise n°6"
+    },
+    {
+        "id": 7,
+        "nom_du_fichier": "CH3_S.glb",
+        "nom_affichage": "Prise n°7"
+    },
+    {
+        "id": 8,
+        "nom_du_fichier": "CH4_S.glb",
+        "nom_affichage": "Prise n°8"
+    },
+    {
+        "id": 9,
+        "nom_du_fichier": "Carrot.glb",
+        "nom_affichage": "Prise n°9"
+    },
+    {
+        "id": 10,
+        "nom_du_fichier": "Climbing_Hold_1.glb",
+        "nom_affichage": "Prise n°10"
+    },
+    {
+        "id": 11,
+        "nom_du_fichier": "Crimp_1.glb",
+        "nom_affichage": "Prise n°11"
+    },
+    {
+        "id": 12,
+        "nom_du_fichier": "Crimp_1_with_screwhole_fixed.glb",
+        "nom_affichage": "Prise n°12"
+    },
+    {
+        "id": 13,
+        "nom_du_fichier": "EatenApple_so.glb",
+        "nom_affichage": "Prise n°13"
+    },
+    {
+        "id": 14,
+        "nom_du_fichier": "Ginger.glb",
+        "nom_affichage": "Prise n°14"
+    },
+    {
+        "id": 15,
+        "nom_du_fichier": "Green_Fossilized_Pinch.glb",
+        "nom_affichage": "Prise n°15"
+    },
+    {
+        "id": 16,
+        "nom_du_fichier": "Hold4.glb",
+        "nom_affichage": "Prise n°16"
+    },
+    {
+        "id": 17,
+        "nom_du_fichier": "Holds (1).glb",
+        "nom_affichage": "Prise n°17"
+    },
+    {
+        "id": 18,
+        "nom_du_fichier": "Holds (10).glb",
+        "nom_affichage": "Prise n°18"
+    },
+    {
+        "id": 19,
+        "nom_du_fichier": "Holds (11).glb",
+        "nom_affichage": "Prise n°19"
+    },
+    {
+        "id": 20,
+        "nom_du_fichier": "Holds (12).glb",
+        "nom_affichage": "Prise n°20"
+    },
+    {
+        "id": 21,
+        "nom_du_fichier": "Holds (13).glb",
+        "nom_affichage": "Prise n°21"
+    },
+    {
+        "id": 22,
+        "nom_du_fichier": "Holds (14).glb",
+        "nom_affichage": "Prise n°22"
+    },
+    {
+        "id": 23,
+        "nom_du_fichier": "Holds (15).glb",
+        "nom_affichage": "Prise n°23"
+    },
+    {
+        "id": 24,
+        "nom_du_fichier": "Holds (16).glb",
+        "nom_affichage": "Prise n°24"
+    },
+    {
+        "id": 25,
+        "nom_du_fichier": "Holds (17).glb",
+        "nom_affichage": "Prise n°25"
+    },
+    {
+        "id": 26,
+        "nom_du_fichier": "Holds (18).glb",
+        "nom_affichage": "Prise n°26"
+    },
+    {
+        "id": 27,
+        "nom_du_fichier": "Holds (19).glb",
+        "nom_affichage": "Prise n°27"
+    },
+    {
+        "id": 28,
+        "nom_du_fichier": "Holds (2).glb",
+        "nom_affichage": "Prise n°28"
+    },
+    {
+        "id": 29,
+        "nom_du_fichier": "Holds (20).glb",
+        "nom_affichage": "Prise n°29"
+    },
+    {
+        "id": 30,
+        "nom_du_fichier": "Holds (21).glb",
+        "nom_affichage": "Prise n°30"
+    },
+    {
+        "id": 31,
+        "nom_du_fichier": "Holds (22).glb",
+        "nom_affichage": "Prise n°31"
+    },
+    {
+        "id": 32,
+        "nom_du_fichier": "Holds (23).glb",
+        "nom_affichage": "Prise n°32"
+    },
+    {
+        "id": 33,
+        "nom_du_fichier": "Holds (24).glb",
+        "nom_affichage": "Prise n°33"
+    },
+    {
+        "id": 34,
+        "nom_du_fichier": "Holds (25).glb",
+        "nom_affichage": "Prise n°34"
+    },
+    {
+        "id": 35,
+        "nom_du_fichier": "Holds (26).glb",
+        "nom_affichage": "Prise n°35"
+    },
+    {
+        "id": 36,
+        "nom_du_fichier": "Holds (27).glb",
+        "nom_affichage": "Prise n°36"
+    },
+    {
+        "id": 37,
+        "nom_du_fichier": "Holds (28).glb",
+        "nom_affichage": "Prise n°37"
+    },
+    {
+        "id": 38,
+        "nom_du_fichier": "Holds (29).glb",
+        "nom_affichage": "Prise n°38"
+    },
+    {
+        "id": 39,
+        "nom_du_fichier": "Holds (3).glb",
+        "nom_affichage": "Prise n°39"
+    },
+    {
+        "id": 40,
+        "nom_du_fichier": "Holds (30).glb",
+        "nom_affichage": "Prise n°40"
+    },
+    {
+        "id": 41,
+        "nom_du_fichier": "Holds (31).glb",
+        "nom_affichage": "Prise n°41"
+    },
+    {
+        "id": 42,
+        "nom_du_fichier": "Holds (4).glb",
+        "nom_affichage": "Prise n°42"
+    },
+    {
+        "id": 43,
+        "nom_du_fichier": "Holds (5).glb",
+        "nom_affichage": "Prise n°43"
+    },
+    {
+        "id": 44,
+        "nom_du_fichier": "Holds (6).glb",
+        "nom_affichage": "Prise n°44"
+    },
+    {
+        "id": 45,
+        "nom_du_fichier": "Holds (7).glb",
+        "nom_affichage": "Prise n°45"
+    },
+    {
+        "id": 46,
+        "nom_du_fichier": "Holds (8).glb",
+        "nom_affichage": "Prise n°46"
+    },
+    {
+        "id": 47,
+        "nom_du_fichier": "Holds (9).glb",
+        "nom_affichage": "Prise n°47"
+    },
+    {
+        "id": 48,
+        "nom_du_fichier": "Lemon.glb",
+        "nom_affichage": "Prise n°48"
+    },
+    {
+        "id": 49,
+        "nom_du_fichier": "Muffin.glb",
+        "nom_affichage": "Prise n°49"
+    },
+    {
+        "id": 50,
+        "nom_du_fichier": "Pear.glb",
+        "nom_affichage": "Prise n°50"
+    },
+    {
+        "id": 51,
+        "nom_du_fichier": "Pinch_Hold_V2.glb",
+        "nom_affichage": "Prise n°51"
+    },
+    {
+        "id": 52,
+        "nom_du_fichier": "RockHold_T1_03.glb",
+        "nom_affichage": "Prise n°52"
+    },
+    {
+        "id": 53,
+        "nom_du_fichier": "RockHold_T1_04.glb",
+        "nom_affichage": "Prise n°53"
+    },
+    {
+        "id": 54,
+        "nom_du_fichier": "RockHold_T2_01.glb",
+        "nom_affichage": "Prise n°54"
+    },
+    {
+        "id": 55,
+        "nom_du_fichier": "RockHold_T2_02.glb",
+        "nom_affichage": "Prise n°55"
+    },
+    {
+        "id": 56,
+        "nom_du_fichier": "RockHold_T2_03.glb",
+        "nom_affichage": "Prise n°56"
+    },
+    {
+        "id": 57,
+        "nom_du_fichier": "RockHold_T2_04.glb",
+        "nom_affichage": "Prise n°57"
+    },
+    {
+        "id": 58,
+        "nom_du_fichier": "RockHold_T2_05.glb",
+        "nom_affichage": "Prise n°58"
+    },
+    {
+        "id": 59,
+        "nom_du_fichier": "RockHold_T2_06.glb",
+        "nom_affichage": "Prise n°59"
+    },
+    {
+        "id": 60,
+        "nom_du_fichier": "RockHold_T2_07.glb",
+        "nom_affichage": "Prise n°60"
+    },
+    {
+        "id": 61,
+        "nom_du_fichier": "RockHold_T2_08.glb",
+        "nom_affichage": "Prise n°61"
+    },
+    {
+        "id": 62,
+        "nom_du_fichier": "RockHold_T2_09.glb",
+        "nom_affichage": "Prise n°62"
+    },
+    {
+        "id": 63,
+        "nom_du_fichier": "RockHold_T3_01.glb",
+        "nom_affichage": "Prise n°63"
+    },
+    {
+        "id": 64,
+        "nom_du_fichier": "RockHold_T3_03.glb",
+        "nom_affichage": "Prise n°64"
+    },
+    {
+        "id": 65,
+        "nom_du_fichier": "RockHold_T3_06.glb",
+        "nom_affichage": "Prise n°65"
+    },
+    {
+        "id": 66,
+        "nom_du_fichier": "RockHold_T3_07.glb",
+        "nom_affichage": "Prise n°66"
+    },
+    {
+        "id": 67,
+        "nom_du_fichier": "RockHold_T3_08.glb",
+        "nom_affichage": "Prise n°67"
+    },
+    {
+        "id": 68,
+        "nom_du_fichier": "RockHold_T3_09.glb",
+        "nom_affichage": "Prise n°68"
+    },
+    {
+        "id": 69,
+        "nom_du_fichier": "Rock_hold_1.glb",
+        "nom_affichage": "Prise n°69"
+    },
+    {
+        "id": 70,
+        "nom_du_fichier": "SuperPocket_v3.glb",
+        "nom_affichage": "Prise n°70"
+    },
+    {
+        "id": 71,
+        "nom_du_fichier": "Wallnut.glb",
+        "nom_affichage": "Prise n°71"
+    },
+    {
+        "id": 72,
+        "nom_du_fichier": "White_Ball_Sloper_Climbing_Hold.glb",
+        "nom_affichage": "Prise n°72"
+    },
+    {
+        "id": 73,
+        "nom_du_fichier": "bubbles001.glb",
+        "nom_affichage": "Prise n°73"
+    },
+    {
+        "id": 74,
+        "nom_du_fichier": "bubbles002.glb",
+        "nom_affichage": "Prise n°74"
+    },
+    {
+        "id": 75,
+        "nom_du_fichier": "climbing_hold_v1.glb",
+        "nom_affichage": "Prise n°75"
+    },
+    {
+        "id": 76,
+        "nom_du_fichier": "hold001.glb",
+        "nom_affichage": "Prise n°76"
+    },
+    {
+        "id": 77,
+        "nom_du_fichier": "hold002.glb",
+        "nom_affichage": "Prise n°77"
+    },
+    {
+        "id": 78,
+        "nom_du_fichier": "hold003.glb",
+        "nom_affichage": "Prise n°78"
+    },
+    {
+        "id": 79,
+        "nom_du_fichier": "hold004.glb",
+        "nom_affichage": "Prise n°79"
+    },
+    {
+        "id": 80,
+        "nom_du_fichier": "hold005.glb",
+        "nom_affichage": "Prise n°80"
+    },
+    {
+        "id": 81,
+        "nom_du_fichier": "hold006.glb",
+        "nom_affichage": "Prise n°81"
+    },
+    {
+        "id": 82,
+        "nom_du_fichier": "hold007.glb",
+        "nom_affichage": "Prise n°82"
+    },
+    {
+        "id": 83,
+        "nom_du_fichier": "hold008.glb",
+        "nom_affichage": "Prise n°83"
+    },
+    {
+        "id": 84,
+        "nom_du_fichier": "obj_12_Assembly.glb",
+        "nom_affichage": "Prise n°84"
+    },
+    {
+        "id": 85,
+        "nom_du_fichier": "obj_1_Assembly.glb",
+        "nom_affichage": "Prise n°85"
+    },
+    {
+        "id": 86,
+        "nom_du_fichier": "obj_2_Assembly.glb",
+        "nom_affichage": "Prise n°86"
+    },
+    {
+        "id": 87,
+        "nom_du_fichier": "obj_5_Assembly.glb",
+        "nom_affichage": "Prise n°87"
+    },
+    {
+        "id": 88,
+        "nom_du_fichier": "obj_6_Assembly.glb",
+        "nom_affichage": "Prise n°88"
+    },
+    {
+        "id": 89,
+        "nom_du_fichier": "obj_9_Assembly.glb",
+        "nom_affichage": "Prise n°89"
+    },
+    {
+        "id": 90,
+        "nom_du_fichier": "rock_climbing_hold_v1stl.glb",
+        "nom_affichage": "Prise n°90"
+    },
+    {
+        "id": 91,
+        "nom_du_fichier": "sloper_1.glb",
+        "nom_affichage": "Prise n°91"
+    },
+    {
+        "id": 92,
+        "nom_du_fichier": "strange_hold-V1.glb",
+        "nom_affichage": "Prise n°92"
+    }
+]
